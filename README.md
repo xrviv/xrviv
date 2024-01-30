@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xrviv otherwise known as Daniel
+- 👋 Hi, I’m Daniel 🇵🇭 
 - 👀 I’m interested in finding work and changing career to Cybersecurity related 💸💸
 - 🌱 I’m currently learning Python, Javascript and Cybersecurity on LinkedIn
 - 💞️ I’m looking to collaborate on Open Source python projects
