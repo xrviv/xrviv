@@ -1,14 +1,28 @@
-- 👋 Hi, I’m Daniel 🇵🇭 
-- 👀 I’m interested in finding work and changing career to Cybersecurity related 💸💸
-- 🌱 I’m currently learning Python, Javascript and Cybersecurity on LinkedIn
-- 💞️ I’m looking to collaborate on Open Source python projects
-- 📫 How to reach me? 
-- 🐦 [@dannybuntu](https://twitter.com/dannybuntu)
-- 🦊 [GitLab](https://gitlab.com/dannygarcia)
-- 👔 [LinkedIn Profile](https://www.linkedin.com/in/dannyboygarcia/)
-- 🦩 Nostr: npub1r709glp0xx2zvgac45wswufjst5xgr7cear5a8me7x9vazhjzmksp2sf7d
+🕵️ Code, Truth, and Verification
 
-<!---
-xrviv/xrviv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Some code runs. Some code tells a story. Some code hides the truth.
+
+Here, the goal is simple: make code prove itself.
+
+🛠️ Breaking down binaries, verifying builds, and questioning assumptions.
+
+📜 Automation, scripting, and cryptographic integrity checks.
+
+🔍 No trust required. Just evidence.
+
+🏴 Signals in the Noise
+
+📂 You’ll find repositories filled with:
+
+- ✔️ Reproducibility analysis
+- ✔️ Cybersecurity experiments
+- ✔️ Automated build verification tools
+- ✔️ Cryptography and open-source investigations
+
+🛸 Reach Out (Or Don’t)
+
+I exist somewhere in the decentralized ether.
+
+🔗 GitLab: gitlab.com/dannygarcia
+
+🦩 Nostr: npub1r709glp0xx2zvgac45wswufjst5xgr7cear5a8me7x9vazhjzmksp2sf7d
